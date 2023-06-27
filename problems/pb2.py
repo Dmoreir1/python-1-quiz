@@ -1,5 +1,7 @@
 def max_values(nums):
-  pass #TODO:
+  x = []
+  y = max(nums)
+  return x
 
 
 
