@@ -7,9 +7,9 @@ def main():
     # Test Cases
 
     # Problem #1: Replace Spaces
-    # sentence = "Test  This is a test   Testing "
-    # sentence2 = pb1.replace_spaces(sentence, "_")
-    # print(sentence2)
+    sentence = "Test  This is a test   Testing "
+    sentence2 = pb1.replace_spaces(sentence, "_")
+    print(sentence2)
 
     # Problem #2: Max Values
     # print(pb2.max_values([4, 7, 2, 8, 10, 9])) # -> [4, 5]
